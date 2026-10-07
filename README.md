@@ -1,7 +1,6 @@
 # Data Analytics Projects
 
-Hi! I'm Olena Holovko, a Junior Data Analyst currently studying at GoIT.  
-This repository contains my projects completed during the Data Analytics course.
+Hi! I'm Olena Holovko, a Data Analyst with a strong background in business operations and financial control. This repository features my end-to-end data analysis projects covering SQL, Python, Product Analytics, and Data Visualization.
 
 ## Projects
 
